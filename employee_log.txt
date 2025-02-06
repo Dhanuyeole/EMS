@@ -1,0 +1,39 @@
+INFO 2025-02-07 00:06:50,910 views Retrieved employee list with 3 employees, sorted by name.
+WARNING 2025-02-07 00:06:59,567 views Failed to create employee: {'name': 'Alice Johnson', 'email': 'alice1.johnson@example.com', 'department': 'HR', 'salary': 55000, 'joining_date': '2023-06-15'}
+WARNING 2025-02-07 00:09:45,053 views Failed to create employee: {'name': 'Alice Johnson', 'email': 'alice21.johnson@example.com', 'department': 'HR', 'salary': 55000, 'joining_date': '2023-06-15'}
+WARNING 2025-02-07 00:09:46,714 views Failed to create employee: {'name': 'Alice Johnson', 'email': 'alice21.johnson@example.com', 'department': 'HR', 'salary': 55000, 'joining_date': '2023-06-15'}
+WARNING 2025-02-07 00:11:06,470 views Failed to create employee: {'name': 'Alice Johnson', 'email': 'alice11.johnson@example.com', 'department': 'HR', 'salary': 55000, 'joining_date': '2023-06-15'}
+WARNING 2025-02-07 00:12:37,598 views Failed to create employee: {'name': 'Alice Johnson', 'email': 'alice31.johnson@example.com', 'department': 'HR', 'salary': 55000, 'joining_date': '2023-06-15'}
+INFO 2025-02-07 00:13:35,959 views New employee created: Alice Johnson, ID: 9
+INFO 2025-02-07 00:14:03,623 views Updated employee: Aliceww Johnson, ID: 3
+INFO 2025-02-07 00:15:11,014 views Retrieved employee details: Aliceww Johnson, ID: 3
+INFO 2025-02-07 00:16:24,538 views Deleted employee: Aliceww Johnson, ID: None
+INFO 2025-02-07 00:25:13,800 views New employee created: Jane Doe, ID: 10
+WARNING 2025-02-07 00:28:20,519 views Failed to create employee: {'name': 'Jane Doe', 'email': 'jane@example.com', 'department': 'Finance', 'salary': 60000, 'joining_date': '2022-01-01'}
+WARNING 2025-02-07 00:30:41,298 views Failed to create employee: {'name': 'Jane Doe', 'email': 'jane@example.com', 'department': 'Finance', 'salary': 60000, 'joining_date': '2022-01-01'}
+WARNING 2025-02-07 00:31:04,573 views Failed to create employee: {'name': 'Jane Doe', 'email': 'jane@example.com', 'department': 'Finance', 'salary': 60000, 'joining_date': '2022-01-01'}
+INFO 2025-02-07 00:31:26,350 views New employee created: Jane Doe, ID: 11
+INFO 2025-02-07 00:31:44,060 views Retrieved employee list with 8 employees, sorted by name.
+WARNING 2025-02-07 00:31:59,503 views Failed to create employee: {'name': 'Jane Doe', 'email': 'jane1@example.com', 'department': 'Finance', 'salary': 60000, 'joining_date': '2022-01-01'}
+INFO 2025-02-07 00:32:00,324 views Retrieved employee details: Alice Johnson, ID: 5
+WARNING 2025-02-07 00:33:21,936 views Failed to create employee: {'name': 'Jane Doe', 'email': 'jane1@example.com', 'department': 'Finance', 'salary': 60000, 'joining_date': '2022-01-01'}
+INFO 2025-02-07 00:33:22,802 views Retrieved employee details: Alice Johnson, ID: 5
+WARNING 2025-02-07 00:36:42,918 views Failed to create employee: {'name': 'Jane Doe', 'email': 'jane1@example.com', 'department': 'Finance', 'salary': 60000, 'joining_date': '2022-01-01'}
+INFO 2025-02-07 00:36:43,679 views Retrieved employee details: Alice Johnson, ID: 5
+WARNING 2025-02-07 00:36:44,209 views Failed to update employee with ID 5: {'email': [ErrorDetail(string='employee with this email already exists.', code='unique')]}
+WARNING 2025-02-07 00:37:41,921 views Failed to create employee: {'name': 'Jane Doe', 'email': 'jane1@example.com', 'department': 'Finance', 'salary': 60000, 'joining_date': '2022-01-01'}
+INFO 2025-02-07 00:37:42,791 views Retrieved employee details: Alice Johnson, ID: 5
+INFO 2025-02-07 00:37:43,672 views Updated employee: Jane Doe, ID: 6
+INFO 2025-02-07 00:40:53,053 views New employee created: Jane Doe, ID: 12
+INFO 2025-02-07 00:40:53,559 views Retrieved employee details: Alice Johnson, ID: 5
+INFO 2025-02-07 00:40:54,111 views Updated employee: Jane Doe, ID: 6
+INFO 2025-02-07 00:41:21,592 views New employee created: Jane Doe, ID: 13
+INFO 2025-02-07 00:41:22,128 views Retrieved employee details: Alice Johnson, ID: 5
+INFO 2025-02-07 00:41:22,672 views Updated employee: Jane Doe, ID: 6
+WARNING 2025-02-07 00:42:36,902 views Failed to create employee: {'name': 'Jane Doe', 'email': 'jane531@example.com', 'department': 'Finance', 'salary': 60000, 'joining_date': '2022-01-01'}
+INFO 2025-02-07 00:42:37,706 views Retrieved employee details: Alice Johnson, ID: 5
+INFO 2025-02-07 00:42:38,270 views Updated employee: Jane Doe, ID: 6
+WARNING 2025-02-07 00:44:13,022 views Failed to create employee: {'name': 'Jane Doe', 'email': 'jane531@example.com', 'department': 'Finance', 'salary': 60000, 'joining_date': '2022-01-01'}
+INFO 2025-02-07 00:44:14,022 views Retrieved employee details: Alice Johnson, ID: 5
+INFO 2025-02-07 00:44:14,566 views Updated employee: Jane Doe, ID: 6
+INFO 2025-02-07 00:44:29,911 views Retrieved employee list with 10 employees, sorted by name.

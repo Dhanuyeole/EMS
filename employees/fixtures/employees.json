@@ -1,0 +1,25 @@
+[
+    {
+      "model": "employees.employee",
+      "pk": 3,
+      "fields": {
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "department": "HR",
+        "salary": 55000,
+        "joining_date": "2023-06-15"
+      }
+    },
+    {
+      "model": "employees.employee",
+      "pk": 4,
+      "fields": {
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
+        "department": "Engineering",
+        "salary": 75000,
+        "joining_date": "2022-11-10"
+      }
+    }
+  ]
+  
